@@ -1,4 +1,4 @@
-const countries = [
+export const countriesObj = [
   {
     name: 'Afghanistan',
     capital: 'Kabul',
